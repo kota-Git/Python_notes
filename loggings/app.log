@@ -1,0 +1,23 @@
+
+INFO:root:I'm  goinig to start my program
+WARNING:root:this is  first warning of my program
+ERROR:root:this is my first error of my program
+ERROR:root:this is my first error of my program
+INFO:root:I'm  goinig to start my program
+INFO:root:I'm  goinig to start my division program
+ERROR:root:this is my first error of my program
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Temp\ipykernel_22388\718521364.py", line 4, in test
+    div=a/b
+        ~^~
+ZeroDivisionError: division by zero
+[ 2025-01-12 11:42:46,444 ] root - ERROR - [Errno 2] No such file or directory: 'files/sample.txt10'
+[ 2025-01-12 11:42:47,581 ] root - INFO - This is an info message
+[ 2025-01-12 11:42:47,582 ] root - WARNING - This is a warning message
+[ 2025-01-12 11:42:47,582 ] root - ERROR - This is an error message
+[ 2025-01-12 11:42:47,583 ] root - CRITICAL - This is a critical message
+[ 2025-01-12 11:42:49,047 ] root - INFO - Adding 10 + 15= 25
+[ 2025-01-12 11:42:49,048 ] root - INFO - Subtracting 15 - 10 = 5
+[ 2025-01-12 11:42:49,048 ] root - INFO - Multiplying 10 * 20 = 200
+[ 2025-01-12 11:42:49,048 ] root - ERROR - Division by zero error
